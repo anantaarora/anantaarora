@@ -2,7 +2,7 @@
 
 #### *"Built on curiosity. Powered by code."*
 
-I'm a Data Scientist & Machine Learning Engineer with 5+ years of experience, passionate about solving real-world problems using data.
+I'm a Data Scientist & Machine Learning Engineer with 4+ years of experience, passionate about solving real-world problems using data.
 
 My core interests lie in Machine Learning, NLP, and the evolving landscape of Large Language Models: Agentic AI—designing systems that can reason, plan, and act autonomously.
 
